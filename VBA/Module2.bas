@@ -8,3 +8,7 @@ End Sub
 Sub AnotherSub()
 
 End Sub
+
+Function AddingANewFeature(a)
+    AddingANewFeature = a + 10
+End Function

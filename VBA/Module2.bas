@@ -9,6 +9,10 @@ Sub AnotherSub()
 
 End Sub
 
-Function AddingANewFeature(a)
-    AddingANewFeature = a + 10
-End Function
+Sub NewFunctionality()
+
+End Sub
+
+Sub NewFunctionality2()
+
+End Sub

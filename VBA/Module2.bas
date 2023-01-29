@@ -13,24 +13,9 @@ End Sub
 
 'This is the modified functionality
 
-' More development
+'Replace with this
 
-'More developement
-
-'Ready to release
-
-'More development
-
-'More development
-'More development
-
-
-'Even mnore development
-'Even mnore development
-'Even mnore development
-'Even mnore development
-
-
+'This is a really import bug fix - get ready to merge
 
 
 'This is a really import bug fix - get ready to merge

@@ -19,3 +19,5 @@ End Sub
 
 
 'This is a really import bug fix - get ready to merge
+
+'Getting ready to relase 1.2

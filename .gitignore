@@ -2,4 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/GitHubSample/FileContentIndex/write.lock
+/.git
+/.vs
+~$*.xl*
+*.vsidx
+*.log
+*.sqllite
+
+

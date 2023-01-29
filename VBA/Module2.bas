@@ -13,11 +13,7 @@ End Sub
 
 'This is the modified functionality
 
-' More development
-
-'More developement
-
-'Ready to release
-
+'Replace with this
 
 'This is a really import bug fix - get ready to merge
+
